@@ -12,3 +12,7 @@ Useful Resources
 - scapy Documentation: https://scapy.net/doc   
 - pycryptodome Documentation: https://pycryptodome.readthedocs.io/en/latest/  
 - tkinter Guide: https://docs.python.org/3/library/tkinter.html 
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/5d926e77-1fff-458f-af01-c8825f26ae99)
